@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+            style="@style/HeaderText"
+            android:onClick="openPlay"
+            android:id="@+id/play_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="play" />
+    <TextView
+        style="@style/HeaderText"
+        android:onClick="openPlaylist"
+            android:id="@+id/playlist_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="playlist" />
+    <TextView
+        style="@style/HeaderText"
+        android:onClick="openFavorite"
+            android:id="@+id/favorite_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Favorites" />
+</LinearLayout>
