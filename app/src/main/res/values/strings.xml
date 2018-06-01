@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">wtf</string>
     <string name="title_activity_shows">Shows</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_playlist">Playlist</string>
+    <string name="title_activity_favorites">Favorites</string>>
 </resources>
