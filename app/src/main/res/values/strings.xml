@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">wtf</string>
+    <string name="app_name">Musix</string>
+    <string name="play_label">Play Songs</string>
+    <string name="playlist_label">Playlists</string>
+    <string name="favorite_label">Favorites</string>
     <string name="title_activity_shows">Shows</string>
 </resources>
