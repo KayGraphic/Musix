@@ -4,4 +4,7 @@
     <string name="playlist_label">Playlists</string>
     <string name="favorite_label">Favorites</string>
     <string name="title_activity_shows">Shows</string>
+    <string name="title_activity_play">Play</string>
+    <string name="title_activity_playlist">Playlist</string>
+    <string name="title_activity_favorites">Favorites</string>>
 </resources>
